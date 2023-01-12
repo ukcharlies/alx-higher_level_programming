@@ -1,0 +1,1 @@
+Wrote a function that returns all the list of available attributes and methods of an object
