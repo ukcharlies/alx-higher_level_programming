@@ -1,1 +1,1 @@
-This is all about loop
+0x01. Python - if/else, loops, functions
